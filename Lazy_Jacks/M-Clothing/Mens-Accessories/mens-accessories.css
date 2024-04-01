@@ -1,0 +1,162 @@
+h1{
+    color: rgb(243, 141, 158);
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.card{
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    position: relative;
+    border: none;
+}
+
+
+.flex-res{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(243, 141, 158);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.flex-res1{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(243, 141, 158);
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.price1{
+    margin-left: 30px;
+    color:rgb(243, 141, 158) ;
+}
+.btn1{
+    color: rgb(243, 141, 158);
+    padding: 8px;
+    margin-left: 10px;
+    margin-right: 30px;
+    width: 100px;
+    border: 1px solid rgb(243, 141, 158);
+}
+.btn2{
+    color: rgb(243, 141, 158);
+    padding: 8px;
+    margin-left: 10px;
+    width: 80px;
+    border: 1px solid rgb(243, 141, 158);
+}
+.main-menu2{
+    width: 400px;
+}
+.check1{
+    margin-left: 10px;
+}
+
+.check2{
+    
+    color: rgb(243, 141, 158);
+    padding-left: 23px;
+}
+
+.AllMen-container1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 60px;
+}
+.select{
+    display: inline;
+    justify-content:space-between;
+}
+.clr1{
+    color: rgb(243, 141, 158);
+}
+.drop-down-menu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(243, 141, 158);
+}
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.dropdown1{
+    margin-right: 60px;
+}
+.products{
+    margin-left: 40px;
+}
+.main-menu1{
+    width: 200px;
+}
+.reset1{
+    
+    text-decoration: underline;
+    color: rgb(243, 141, 158);
+}
+.bg-remove{
+    background-color: white;
+}
+  
+.zoom{
+    position: relative;
+    
+}
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #008CBA;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+  }
+  .zoom:hover .overlay {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  .image{
+    display: block;
+
+  }
+  .pagination {
+    display: inline-block;
+    margin-left: 40%;
+    color: rgb(243, 82, 19);
+  }
+  
+  .pagination a {
+    color: rgb(243, 141, 158);
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    color: rgb(243, 141, 158);
+    
+  
+  }
+  a{
+    border: none;
+    color: rgb(243, 141, 158);
+  }
+  h3{
+    color: rgb(243, 141, 158);
+  }
+  
+  .pagination a.active {
+    background-color: pink;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: pink;}

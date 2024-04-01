@@ -1,0 +1,83 @@
+.cont1{
+    color:palevioletred;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 8%;
+    margin-top: 2%;
+  }
+  .nav{
+    margin-top: 70px;
+    color:rgb(247, 145, 162);
+  }
+  li{
+    list-style-type: none;
+    font-size: larger;
+    margin-left: 5px;
+  }
+  u{
+    margin-left: 75px;
+  }
+  .hi{
+    margin-left: 200px;
+    
+  }
+  .her{
+    display: flex;
+    li{
+        border: 2px;
+    }
+  }
+  .sort{
+    margin-left: 600px;
+  }
+  .doc{
+  margin-left: 10%;
+  font-size: 23px;
+  color: rgb(56, 56, 95);
+  }
+  .doc2{
+    margin-left: 40px;
+    margin-top: 120px;
+      transition: transform .2s;
+    }
+    
+    .doc2:hover {
+      -ms-transform: scale(.1); 
+      -webkit-transform: scale(1.5); 
+      transform: scale(1.1); 
+    }
+  .doc3{
+    margin-top: 30px;
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc4{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc5{
+    margin-left: 50cap;
+    margin-top: -46cap;
+    transition: transform .2s;
+  }
+  .doc5:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc6{
+    margin-top: 30px;
+    margin-left: 49cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc7{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  

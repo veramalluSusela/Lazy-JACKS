@@ -1,0 +1,522 @@
+.cont1{
+    color:palevioletred;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 8%;
+    margin-top: 2%;
+  }
+  .nav{
+    margin-top: 70px;
+    color:rgb(247, 145, 162);
+  }.cont1{
+    color:palevioletred;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 8%;
+    margin-top: 2%;
+  }
+  .nav{
+    margin-top: 70px;
+    color:rgb(247, 145, 162);
+  }
+  li{
+    list-style-type: none;
+    font-size: larger;
+    margin-left: 5px;
+  }
+  u{
+    margin-left: 75px;
+  }
+  .hi{
+    margin-left: 200px;
+    
+  }
+  .her{
+    display: flex;
+    li{
+        border: 2px;
+    }
+  }
+  .sort{
+    margin-left: 600px;
+  }
+  .doc{
+  margin-left: 10%;
+  font-size: 23px;
+  color: rgb(56, 56, 95);
+  }
+  .doc2{
+    margin-left: 40px;
+    margin-top: 120px;
+      transition: transform .2s;
+    }
+    
+    .doc2:hover {
+      -ms-transform: scale(.1); 
+      -webkit-transform: scale(1.5); 
+      transform: scale(1.1); 
+    }
+  .doc3{
+    margin-top: 30px;
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc4{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc5{
+    margin-left: 50cap;
+    margin-top: -50cap;
+    transition: transform .2s;
+  }
+  .doc5:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc6{
+    margin-top: 30px;
+    margin-left: 49cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc7{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc8{
+    margin-left: 94cap;
+    margin-top: -48cap;
+    transition: transform .2s;
+  }
+  .doc8:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc9{
+    margin-top: 30px;
+    margin-left: 90cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc10{
+    margin-left: 90cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc11{
+    margin-left: 40px;
+    margin-top: 50px;
+    transition: transform .2s;
+  }
+  .doc11:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc12{
+    margin-top: 30px;
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc13{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc14{
+    margin-left: 50cap;
+    margin-top: -50cap;
+    transition: transform .2s;
+  }
+  .doc14:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc15{
+    margin-top: 30px;
+    margin-left: 54cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc16{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc17{
+    margin-left: 94cap;
+    margin-top: -46cap;
+    transition: transform .2s;
+  }
+  .doc17:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc18{
+    margin-top: 30px;
+    margin-left: 88cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc19{
+    margin-left: 88cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc20{
+    margin-left: 40px;
+    margin-top: 50px;
+    transition: transform .2s;
+  }
+  .doc20:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc21{
+    margin-top: 30px;
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc22{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc23{
+    margin-left: 50cap;
+    margin-top: -49cap;
+    transition: transform .2s;
+  }
+  .doc23:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc24{
+    margin-left: 50cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+    margin-top: 30px;
+  }
+  .doc25{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc26{
+    margin-left: 94cap;
+    margin-top: -49cap;
+    transition: transform .2s;
+  }
+  .doc26:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc27{
+    margin-top: 30px;
+    margin-left: 90cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc28{
+    margin-left: 90cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc29{
+    margin-left: 40px;
+    margin-top: 50px;
+    transition: transform .2s;
+  }
+  .doc29:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc30{
+    margin-top: 30px;
+    margin-left: 85px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc31{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc32{
+    margin-left: 50cap;
+    margin-top: -48cap;
+    transition: transform .2s;
+  }
+  .doc32:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc33{
+    margin-top: 30px;
+    margin-left: 50cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc34{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc35{
+    margin-left: 94cap;
+    margin-top: -48cap;
+    transition: transform .2s;
+  }
+  .doc35:hover {
+    -ms-transform: scale(.1); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+  .doc36{
+    margin-top: 30px;
+    margin-left: 90cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc37{
+    margin-left: 90cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  
+  
+  li{
+    list-style-type: none;
+    font-size: larger;
+    margin-left: 5px;
+  }
+  u{
+    margin-left: 75px;
+  }
+  .hi{
+    margin-left: 200px;
+    
+  }
+  .her{
+    display: flex;
+    li{
+        border: 2px;
+    }
+  }
+  .sort{
+    margin-left: 600px;
+  }
+  .doc{
+  margin-left: 10%;
+  font-size: 23px;
+  color: rgb(56, 56, 95);
+  }
+  .doc2{
+    margin-left: 40px;
+    margin-top: 50px;
+  }
+  .doc3{
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc4{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc5{
+    margin-left: 50cap;
+    margin-top: -46cap;
+  }
+  .doc6{
+    margin-left: 55cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc7{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc8{
+    margin-left: 94cap;
+    margin-top: -46cap;
+  }
+  .doc9{
+    margin-left: 90cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc10{
+    margin-left: 90cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc11{
+    margin-left: 40px;
+    margin-top: 50px;
+  }
+  .doc12{
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc13{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc14{
+    margin-left: 50cap;
+    margin-top: -46cap;
+  }
+  .doc15{
+    margin-left: 48cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc16{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc17{
+    margin-left: 94cap;
+    margin-top: -46cap;
+  }
+  .doc18{
+    margin-left: 88cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc19{
+    margin-left: 88cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc20{
+    margin-left: 40px;
+    margin-top: 50px;
+  }
+  .doc21{
+    margin-left: 90px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc22{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc23{
+    margin-left: 50cap;
+    margin-top: -46cap;
+  }
+  .doc24{
+    margin-left: 50cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc25{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc26{
+    margin-left: 94cap;
+    margin-top: -46cap;
+  }
+  .doc27{
+    margin-left: 90cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc28{
+    margin-left: 90cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc29{
+    margin-left: 40px;
+    margin-top: 50px;
+  }
+  .doc30{
+    margin-left: 160px;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc31{
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc32{
+    margin-left: 50cap;
+    margin-top: -46cap;
+  }
+  .doc33{
+    margin-left: 50cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc34{
+    margin-left: 53cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  .doc35{
+    margin-left: 94cap;
+    margin-top: -46cap;
+  }
+  .doc36{
+    margin-left: 90cap;
+    font-size: 18px;
+    color:rgb(247, 145, 162);
+  }
+  .doc37{
+    margin-left: 90cap;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(247, 145, 162);
+  }
+  
+  

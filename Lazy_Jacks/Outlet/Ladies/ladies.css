@@ -1,0 +1,29 @@
+
+        h1{
+            margin: 40px;
+            font-size: 30px;
+            color: brown;
+        }
+        .container{
+            display: grid;
+            grid-template-columns: auto auto auto;
+            margin: 40px;
+            padding: 40px;
+        }
+        #item{
+            color:brown;
+            text-transform: capitalize;
+            font-size: 30px;
+        }
+        #over{
+            color: brown;
+            font-size: 30px;
+            text-decoration:line-through;
+
+        }
+        #cost{
+            color: brown;
+            font-size: 20px;
+
+        }
+    

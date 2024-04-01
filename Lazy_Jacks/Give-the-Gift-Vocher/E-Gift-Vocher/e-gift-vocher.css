@@ -1,0 +1,146 @@
+/*------------first-cnt---------------*/
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  color: #f06e91;
+}
+.image-container img {
+  height: 70vh;
+  width: 50vw;
+  flex-basis: 50%;
+  padding-top: 25px;
+}
+.gift-card-container {
+  line-height: 30px;
+  flex-basis: 40%;
+  font-size: 25px;
+}
+/*------------Secound-cnt---------------*/
+.product-row-cnt {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 20px 0px;
+  color: #f06e91;
+  font-size: 15px;
+}
+.product img {
+  height: 40vh;
+  width: 20vw;
+  min-width: 100px;
+}
+.product {
+  flex-basis: 20%;
+  max-width: 100%;
+  padding: 0px 20px;
+}
+
+.gift-card-container h2 {
+  margin-top: 0;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.add-to-cart-btn {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4caf50;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #45a049;
+}
+
+/*------------first-cnt---------------*/
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  color: #f06e91;
+}
+.image-container img {
+  height: 70vh;
+  width: 50vw;
+  flex-basis: 50%;
+  padding-top: 25px;
+}
+.gift-card-container {
+  line-height: 30px;
+  flex-basis: 40%;
+  font-size: 25px;
+}
+/*------------Secound-cnt---------------*/
+.product-row-cnt {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 20px 0px;
+  color: #f06e91;
+  font-size: 15px;
+}
+.product img {
+  height: 40vh;
+  width: 20vw;
+  min-width: 100px;
+}
+.product {
+  flex-basis: 20%;
+  max-width: 100%;
+  padding: 0px 20px;
+}
+
+.gift-card-container h2 {
+  margin-top: 0;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.add-to-cart-btn {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4caf50;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #45a049;
+}
+
+.gift-card-container {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+}

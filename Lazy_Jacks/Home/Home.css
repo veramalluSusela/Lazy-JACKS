@@ -1,0 +1,345 @@
+/*-----------------------------*/
+/*-----------main cnt------------------*/
+/*-----------Want to visit us store------------------*/
+.want-to-visit {
+  text-align: center;
+  border-bottom: 1px solid lightgrey;
+  padding: 15px 0px;
+  width: 100%;
+  background-color: white;
+}
+/* .postion-cnt {
+  position: fixed;
+  z-index: +1;
+} */
+.want-to-visit i {
+  padding-left: 10px;
+  font-size: 20px;
+  color: #f06e91;
+}
+.want-to-visit a {
+  text-decoration: none;
+  color: #f06e91;
+}
+/*--------------logo-nav bar-----------------*/
+.logo-nav-cnt {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 0px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.logo-nav-cnt2 {
+  width: 250px;
+}
+.logo-nav-cnt2 img {
+  height: 150px;
+  width: 250px;
+}
+.logo-nav-cnt2 ul li,
+.logo-nav-cnt3 i {
+  list-style-type: none;
+  font-size: 20px;
+}
+.logo-nav-cnt2 ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.logo-nav-cnt2 i {
+  padding: 0px 10px;
+  font-size: 25px;
+}
+
+.dropdown-menu i,
+.dropdown-menu a {
+  color: #f06e91;
+}
+.form-control::placeholder {
+  color: #f06e91;
+  opacity: 1;
+}
+/*-----------drop down list------------*/
+
+.drop-list-row-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  font-size: 18px;
+}
+.drop-list-row-cont .list-item-dp a {
+  /* text-decoration: none; */
+  color: #f06e91;
+  padding: 0px 23px;
+}
+/*--------under properties---------*/
+/* .drop-list-row-cont .list-item-dp {
+  position: relative;
+}
+.drop-list-row-cont .list-item-dp ::after {
+  content: "";
+  height: 3px;
+  width: 0;
+  background-color: #ff523b;
+  position: absolute;
+  left: 0;
+  bottom: -5%;
+  transition: all 0.7s;
+}
+.drop-list-row-cont .list-item-dp :hover::after {
+  width: 100%;
+} */
+
+/* .dropdown-menu {
+  appearance: none;
+} */
+
+.dropdown:hover > .dropdown-menu,
+.dropend:hover .dropdown-menu {
+  display: block;
+}
+
+.dropend {
+  position: relative;
+}
+.dropend:hover .dropdown-menu {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: 0.12em;
+}
+
+/*-----------Shop Our-outlet------------*/
+.shop-our-outlet a,
+.shop-our-outlet i {
+  color: white;
+}
+.shop-our-outlet {
+  background-color: #1f3563;
+  font-size: 15px;
+}
+/*------------Free Uk Delivery----------*/
+.free-uk-delivery a,
+.free-uk-delivery i {
+  color: white;
+}
+.free-uk-delivery {
+  background-color: #f06e91;
+  font-size: 15px;
+  border: none;
+}
+
+/*------------footer-----------------*/
+.footer-cnt {
+  background-color: #b3ddca;
+  padding: 50px;
+  line-height: 40px;
+  color: white;
+}
+.foot-text-search-main,
+.footer-sub-cnt {
+  display: flex;
+  justify-content: space-between;
+}
+.foot-text-search img {
+  height: 30px;
+  width: 40px;
+  margin: 0px 5px;
+}
+.footer-cnt ul li {
+  list-style-type: none;
+}
+.footer-cnt a,
+.footer-cnt p {
+  color: white;
+  font-size: 18px;
+}
+.input-foot-cnt {
+  border: 1px solid white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+}
+.input-foot-cnt input {
+  border: none;
+  background-color: transparent;
+  font-size: 20px;
+}
+.foot-text-search {
+  font-size: 25px;
+}
+/*----placeholder-color-----*/
+.foot-drop::placeholder {
+  color: white;
+  opacity: 1;
+}
+/*-----------Its-An-Easter-Egg-Hunt!------------*/
+.its-easter {
+  background-image: url("https://lazyjacks.co.uk/cdn/shop/files/Wild_21.png?v=1711643695&width=2000");
+  height: 90vh;
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.start-btn {
+  padding: 10px 40px;
+  background-color: #f06e91;
+  color: white;
+  border: none;
+  font-size: 20px;
+  margin-top: 400px;
+}
+/*--------------caurosel--View all------------------*/
+/*-----------------LJ-printed Dress------------------*/
+.lj-120-cnt {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: start;
+}
+.lj-120-cnt1 {
+  flex-basis: 50%;
+  min-width: 300px;
+}
+.lj-120-cnt1 img {
+  max-width: 100%;
+}
+.lj-120-cnt2 {
+  line-height: 40px;
+  color: #f06e91;
+  flex-basis: 30%;
+  min-width: 300px;
+}
+.sizes-input::placeholder {
+  text-align: center;
+  color: #f06e91;
+}
+:root {
+  --primary-color: #f06e91;
+}
+.size-btn {
+  padding: 5px 25px;
+  border-radius: 50px;
+  margin: 5px;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  background-color: white;
+}
+.qt {
+  margin-bottom: -10px;
+}
+.full-clr {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 5px 30px;
+}
+.lj-120-cnt input,
+.lj-btn1 {
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  margin: 8px 0px;
+  padding: 10px 0px;
+  background-color: white;
+}
+.lj-btn2 {
+  background-color: #5a31f4;
+  padding: 10px 0px;
+  color: white;
+  border: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.btn-cnt-lj {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.more-cnt {
+  align-items: center;
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+.lj-120-cnt3 {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0px;
+}
+.lj-120-cnt3 a {
+  color: var(--primary-color);
+  padding: 0px 10px;
+}
+/*-------------Spring has arrived--------------------*/
+.spring-has-arrived {
+  background-image: url("https://lazyjacks.co.uk/cdn/shop/files/Untitled-3_215da0e9-594d-46dd-b82b-48fa6019e4fe.jpg?v=1709216480&width=2000");
+}
+.shop-new-btn {
+  margin-left: -700px;
+  margin-bottom: 30px;
+}
+/*--------------Lj-Mens Jersey-----------------------*/
+.men-lj {
+  color: #b3ddca;
+  border: 1px solid #b3ddca;
+}
+.men-lj1 {
+  background-color: #b3ddca;
+  border: 1px solid #b3ddca;
+}
+.men-input::placeholder {
+  text-align: center;
+  color: #b3ddca;
+}
+.men-anch {
+  color: #b3ddca;
+}
+/*--------------Ladies-mens-Boys-Girls----------------*/
+
+.ladies-mens-cnt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 20px;
+  margin: 50px 0px;
+}
+.ladies-mens-cnt2 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 10px;
+  color: #f06e91;
+  margin: 20px 0px;
+}
+.ladies-mens-cnt1 img {
+  height: 60vh;
+  width: 23vw;
+  padding: 0px 5px;
+}
+.ladies-mens-cnt2 h5 {
+  padding-right: 10px;
+}
+
+/*--------------Follows-us-on instgram----------------*/
+.follow-inst {
+  display: flex;
+}
+.follow-inst-img {
+  margin: auto;
+  padding: 20px 0px;
+  cursor: pointer;
+}
+.follow-inst-img img {
+  height: 35vh;
+  width: 16vw;
+}
+.follow-heading {
+  color: #f06e91;
+  text-align: center;
+  margin: 30px 0px;
+  font-family: "Times New Roman", Times, serif;
+}
